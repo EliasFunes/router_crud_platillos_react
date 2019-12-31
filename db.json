@@ -1,0 +1,34 @@
+{
+  "restaurant": [
+    {
+      "precioPlatillo": "300",
+      "nombrePlatillo": "Rib Eye 400g",
+      "categoria": "cortes",
+      "id": 2
+    },
+    {
+      "nombrePlatillo": "Ensalada",
+      "precioPlatillo": "370",
+      "categoria": "ensalada",
+      "id": 3
+    },
+    {
+      "nombrePlatillo": "Jugo de limon",
+      "precioPlatillo": "4",
+      "categoria": "bebida",
+      "id": 5
+    },
+    {
+      "nombrePlatillo": "Torta de chocolate",
+      "precioPlatillo": "300",
+      "categoria": "postre",
+      "id": 6
+    },
+    {
+      "nombrePlatillo": "Ensalada de Pollo",
+      "precioPlatillo": "80",
+      "categoria": "ensalada",
+      "id": 7
+    }
+  ]
+}
